@@ -43,12 +43,12 @@
 ## 📁 Acesso ao projeto
 
 **Acesso ao código do projeto**<br>
-https://github.com/Brunostaine/Barbearia
+https://github.com/Brunostaine/Barbearia-alura/
 
 
 ## 🛠️ Abrir e rodar o projeto
 
-**https://github.com/Brunostaine/Barbearia-alura**
+**https://brunostaine.github.io/Barbearia-alura/**
 
 ## Tecnicas e tecnologias utilizadas
 
