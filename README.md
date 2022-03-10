@@ -48,7 +48,7 @@ https://github.com/Brunostaine/Barbearia
 
 ## 🛠️ Abrir e rodar o projeto
 
-**https://brunostaine.github.io/Barbearia/**
+**https://github.com/Brunostaine/Barbearia-alura**
 
 ## Tecnicas e tecnologias utilizadas
 
